@@ -1,0 +1,3 @@
+
+
+[{"id":"fc09c9cd.7fe118","type":"inject","z":"18327fe5.f5091","name":"Desliga","topic":"led","payload":"D","payloadType":"str","repeat":"","crontab":"","once":false,"x":306,"y":237,"wires":[["6b1b3cad.47ee84","81b3117f.7e7ab"]]}]
