@@ -11,7 +11,7 @@ Adicionei documentação um PDF e vídeo para esclarecer uma pergunta sobre o us
 
 Novo video na playlist https://youtu.be/obhGy8DR4EQ 
 
-Hoje subi o codigo, imagens de pinout do ESP8266, desenhos do circuito com Frtzing indicadndo a ligação de cada sensor e botoes.
+Hoje subi o codigo, imagens de pinout do ESP8266, desenhos do circuito com Frtzing indicando a ligação de cada sensor e botoes.
 
 Considero finalizado o projeto mas estarei sempre a disposição para esclarecer duvidas, por favor se encontar algum erro ou dificuldade agradeço me comunicar, desta forma corrigirei o antes possivel.
 
