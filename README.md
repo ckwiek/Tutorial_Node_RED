@@ -19,3 +19,9 @@ Adicionei codigo, e imagem fritzing do circuito, para utilizar com ESP32
 
 Este vídeo esta postado no meu canal, é o ultimo da playlist do tutorial completo. https://youtu.be/OIQt6icmBt4 
 
+Agradecimentos: 
+
+Colega Eng. Pedro Bertoleti.
+
+Aos desenvolvedores das Bibliotecas e do projeto node-red obrigado!
+
