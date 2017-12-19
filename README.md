@@ -15,3 +15,5 @@ Hoje subi o codigo, imagens de pinout do ESP8266, desenhos do circuito com Frtzi
 
 Considero finalizado o projeto mas estarei sempre a disposição para esclarecer duvidas, por favor se encontar algum erro ou dificuldade agradeço me comunicar, desta forma corrigirei o antes possivel.
 
+Adicionei codigo, e imagem fritzing do circuito, para utilizar com ESP32
+
